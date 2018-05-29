@@ -1,0 +1,24 @@
+{
+  "name": "@drykenspel/node-server",
+  "version": "0.1.0",
+  "description": "nodejs implementation of a drykenspel server",
+  "private": true,
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Drykenspel/node-server.git"
+  },
+  "author": "Drykenspel <drykenspel.game@gmail.com>",
+  "contributors": [
+    "Trymunx <trymunx@gmail.com>",
+    "Alpvax <development.alpvax.uk>"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Drykenspel/node-server/issues"
+  },
+  "homepage": "https://github.com/Drykenspel/node-server#readme"
+}
